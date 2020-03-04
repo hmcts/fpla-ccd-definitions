@@ -2,14 +2,14 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "ADOPTION",
-    "CaseEventID": "openCase",
-    "UserRole": "citizen",
-    "CRUD": "CRU"
+    "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-adoption-clerk",
+    "CRUD": "R"
   },
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "ADOPTION",
-    "CaseEventID": "openCase",
+    "CaseFieldID": "caseIDReference",
     "UserRole": "caseworker-adoption-clerk",
     "CRUD": "R"
   }

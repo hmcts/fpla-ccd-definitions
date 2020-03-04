@@ -4,7 +4,7 @@
     "ID": "ADOPTION",
     "Name": "Adoption",
     "Description": "Adoption case",
-    "JurisdictionID": "PUBLICLAW",
+    "JurisdictionID": "ADOPTION",
     "SecurityClassification": "Public"
   }
 ]
